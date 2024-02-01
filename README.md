@@ -23,7 +23,7 @@ The project also have some important answers to important questions like:
 📈 Based on the report insights ,here are the outcomes of the IMDb :-
 1.	Avatar (2009) was the Most profitable movies with 523.51M .
 <p align="center">
-  <img width="600" height="300" src="MDB ss/Most Profitable MOVIES.png">
+  <img width="600" height="300" src="IMDB ss/Most Profitable MOVIES.png">
 </p>
 2.	Action gets most like genre.
 <p align="center">
