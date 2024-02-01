@@ -44,10 +44,11 @@ The project also have some important answers to important questions like:
 </p>
 Conclusion:
 In summary, our IMDb dataset analysis reveals that Action is the most lucrative genre, China excels in IMDb scores, and the USA dominates movie production. "Avatar" is the top-grossing film, while "The Shawshank Redemption" boasts the highest IMDb score. These insights guide strategic investment decisions, stressing the significance of genre, director reputation, and geographic factors to maximize ROI in film production.
-Authors
-https://github.com/Souravdutta97
-Sourav Dutta - Data Analyst 
 
-Santanu Data - All work
+
+## Authors
+[@Souravdutta97](https://github.com/Souravdutta97)
+Sourav Dutta - Data Analyst 
+Sourav Data - All work
 
 
