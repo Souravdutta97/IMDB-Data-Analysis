@@ -47,8 +47,12 @@ In summary, our IMDb dataset analysis reveals that Action is the most lucrative 
 
 
 ## Authors
-[@Souravdutta97](https://github.com/Souravdutta97)
-Sourav Dutta - Data Analyst 
-Sourav Data - All work
+-[@Souravdutta97](https://github.com/Souravdutta97)
+
+
+-Sourav Dutta - Data Analyst 
+
+
+-Sourav Dutta - All work
 
 
